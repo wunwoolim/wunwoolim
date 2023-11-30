@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 보유 기술
-![Static Badge](https://img.shields.io/badge/Spring-6D833F?style=flat-square&logo=Spring&logoColor=wite)
+![Static Badge](https://img.shields.io/badge/Spring-6D833F?style=flat-square&logo=Spring&logoColor=white)
 
-
-
+[![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)]
+(mailto:dlawnsdn1209@naver.com)
 * Java
 * Spring
 * Spring Boot
