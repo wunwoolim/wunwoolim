@@ -21,6 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:dlawnsdn1209@naver.com)
 
+![views](https://gh-hits.nomadcoders.workers.dev/view?username=5windy)
+
+
 * Java
 * Spring
 * Spring Boot
